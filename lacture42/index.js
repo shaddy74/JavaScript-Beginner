@@ -69,3 +69,51 @@
 //     }
 //     i++;
 // }
+
+
+
+
+// DO_WHILE LOOP
+
+// let i=1 
+// do{
+// console.log("Heloo Bhai")
+// i++;
+// }while(i<=10)
+
+
+// STRING
+
+// let firstName= "Shadab";
+// let lastName="ALam";
+
+// console.log(firstName)
+
+// let Al = new String("Hello Wolrd")
+// console.log(Al)
+
+
+let opt1 = 'English'
+let opt2 = 'Hindi'
+
+
+// console.log(opt2.toLowerCase())
+// console.log(opt1.toUpperCase())
+// console.log(opt2.length)
+
+// let ans = op2 + opt1
+// let finalAns = `${opt1} ${opt2}`
+
+// console.log(finalAns)
+
+let str = 'Shadab';
+
+// console.log(str.substring(2,5))
+// console.log(str.substring(3))
+
+let sentance = "Hello Jee Kaise Ho"
+
+let word = sentance.split(' ')
+console.log(word)
+console.log(word.join(', ')
+)
